@@ -1,9 +1,9 @@
 # Algorithm progblems #
 
-# Monitor #
+### Monitor ###
 Minimal number of nodes to be selected in order to activate all links?
 
-# Decoding #
+### Decoding ###
 Is there a sequence which can be decoded in different ways?
 
 Input:
